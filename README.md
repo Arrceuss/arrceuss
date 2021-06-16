@@ -15,6 +15,6 @@ I'm currently working on a Discord bot called [Raid Block](https://discord.com/o
 
 ### Stats
 
-[![Arceus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arceus&title_color=7289DA&icon_color=7289DA&text_color=FFFFFF&bg_color=2C2F33&show_icons=true)](https://github.com/Arrceuss)
+[![My stats](https://github-readme-stats.vercel.app/api?username=Arceus&title_color=7289DA&icon_color=7289DA&text_color=FFFFFF&bg_color=2C2F33&show_icons=true)](https://github.com/Arrceuss)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arceus&theme=onedark&layout=compact)
