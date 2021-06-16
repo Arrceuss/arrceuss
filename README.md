@@ -6,10 +6,11 @@ I'm currently working on a Discord bot called [Raid Block](https://discord.com/o
 
 ---
 
-### Experience
+### I'm using
 
-- GO
-- JavaScript
+・GO
+・JavaScript
+・Pyhon
 
 ---
 
