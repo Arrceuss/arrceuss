@@ -9,7 +9,9 @@ I'm currently working on a Discord bot called [Raid Block](https://discord.com/o
 ### I'm using
 
 ・GO
+
 ・JavaScript
+
 ・Pyhon
 
 ---
